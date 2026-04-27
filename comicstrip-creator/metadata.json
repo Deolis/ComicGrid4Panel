@@ -1,6 +1,0 @@
-{
-  "name": "ComicStrip Creator",
-  "description": "Upload 4 images to create a custom 2x2 comic strip with a title and watermark.",
-  "requestFramePermissions": [],
-  "majorCapabilities": []
-}
